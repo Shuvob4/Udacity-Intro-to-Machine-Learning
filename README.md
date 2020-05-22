@@ -7,6 +7,7 @@ For doing mini projects and answering quizes initial file was cloned from the re
 The course code were written in Python2, have to convert it to Python3 for my convenient. For this got a lot of error.
 
 To run this code:
+
   1.istall the dependences like: sklearn, nltk, numpy
   2. Clone this repository
   3. Go to tools/ directory and run startup.py
